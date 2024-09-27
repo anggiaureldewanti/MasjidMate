@@ -1,0 +1,298 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.notifikasi-pengaduan-mwK {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0rem 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #87957a;
+}
+.notifikasi-pengaduan-mwK .status-bar-BEM {
+  margin-bottom: 2.7rem;
+  width: 38.1rem;
+  height: 3.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.notifikasi-pengaduan-mwK .auto-group-undy-Thf {
+  margin: 0rem 25.3rem 2.9rem 1.7rem;
+  width: calc(100% - 27rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.notifikasi-pengaduan-mwK .auto-group-undy-Thf .vector-YUD {
+  margin: 0rem 0.991rem 0.237rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.notifikasi-pengaduan-mwK .auto-group-undy-Thf .pengaduan-W3f {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND {
+  margin-left: 0.4rem;
+  box-sizing: border-box;
+  padding: 0 0.4rem;
+  width: 39.6rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding-left: 0.4rem;
+  width: 37.7rem;
+  height: 75.6rem;
+  overflow: hidden;
+  position: relative;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 {
+  width: 64rem;
+  height: 75.2rem;
+  position: relative;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .rectangle-54-rYm {
+  width: 36.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .rectangle-54-rYm .rectangle-54-Lyj {
+  width: 100%;
+  height: 5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-bvij-L6Z {
+  width: 37.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 70.2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-bvij-L6Z .rectangle-1107-b2V {
+  width: 36.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-bvij-L6Z .aplikasi-sudah-bagus-tapi-perlu-ada-dark-mode-nya-YXP {
+  width: 35.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-dnr1-gX7 {
+  box-sizing: border-box;
+  padding: 1.3rem 1.6rem 1.6rem 1.6rem;
+  width: 36.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 25.7rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-v1hm-8nR {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 1.7rem 1.6rem;
+  width: 36.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 53.8rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-tvtb-KEd {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem 1.3rem 1.6rem;
+  width: 36.7rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 7.2rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-tvtb-KEd .aplikasi-mobile-masjid-saya-tidak-merespons-dengan-baik-tolong-perbaiki-th3 {
+  max-width: 31.2rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-cmcx-3TT {
+  width: 63.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 61rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-cmcx-3TT .rectangle-1106-SVb {
+  width: 36.7rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-cmcx-3TT .kenapa-kalo-jaringan-lemot-gabisa-login-apakah-jaringan-harus-sangat-cepat-dan-kuat-pFF {
+  width: 62.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-bt7q-tuK {
+  box-sizing: border-box;
+  padding: 0.7rem 3rem 1.2rem 1.6rem;
+  width: 36.7rem;
+  height: 8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 15.5rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-bt7q-tuK .saya-ingin-terus-menggunakan-aplikasi-masjid-ini-tetapi-login-selalu-gagal-mohon-bantuan-buat-kelanjutannya-Jy3 {
+  max-width: 32.1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-q4nx-G2h {
+  box-sizing: border-box;
+  padding: 0.7rem 2.3rem 0.7rem 1.6rem;
+  width: 36.7rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 45.2rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-q4nx-G2h .aplikasi-mobile-masjid-saya-berhenti-tiba-tiba-bisakah-anda-memeriksa-dan-memperbaiki-SrH {
+  max-width: 32.8rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-rx7h-dvm {
+  box-sizing: border-box;
+  padding: 0.7rem 2.2rem 1.3rem 1.8rem;
+  width: 36.7rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 0;
+  top: 32.9rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .auto-group-rx7h-dvm .saya-kesulitan-masuk-ke-aplikasi-masjid-sudah-mencoba-beberapa-kali-tetapi-saya-masih-tidak-bisa-login-mohon-bantuan-untuk-mengatasi-masalah-ini-dJV {
+  max-width: 32.7rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.notifikasi-pengaduan-mwK .frame-29-TND .frame-30-xJy .group-15-b73 .cara-ganti-foto-profil-akun-bagaimana-ufK {
+  width: 27.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #010101;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}

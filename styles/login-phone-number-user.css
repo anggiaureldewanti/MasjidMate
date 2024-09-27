@@ -1,0 +1,299 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.login-phone-number-user-gq3 {
+  width: 100%;
+  height: 73.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fffbfb;
+}
+.login-phone-number-user-gq3 .status-bar-uho {
+  width: 38.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-phone-number-user-gq3 .auto-group-cm1d-rmT {
+  width: 24.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 29.6rem;
+  display: flex;
+  align-items: center;
+}
+.login-phone-number-user-gq3 .auto-group-cm1d-rmT .auto-group-cf1u-6A1 {
+  width: 12.2rem;
+  height: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #607548;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c9d3bf;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-cm1d-rmT .auto-group-5rfy-SdB {
+  width: 12.2rem;
+  height: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #fffbfb;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-ymqx-TYH {
+  box-sizing: border-box;
+  padding: 2.3rem 1.9rem;
+  width: 33.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 35.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c8d3be;
+}
+.login-phone-number-user-gq3 .auto-group-yuzw-xtM {
+  box-sizing: border-box;
+  padding: 2rem 1.7rem 2rem 2rem;
+  width: 33.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 43.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+}
+.login-phone-number-user-gq3 .auto-group-yuzw-xtM .password-nMb {
+  margin-right: 21.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-yuzw-xtM .icvisibility48px-Sh3 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-xo1d-jw3 {
+  width: 31.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 52.9rem;
+}
+.login-phone-number-user-gq3 .auto-group-xo1d-jw3 .login-DLR {
+  width: 4.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 2.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-phone-number-user-gq3 .auto-group-xo1d-jw3 .component-6-eAq {
+  width: 31.6rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 10rem;
+}
+.login-phone-number-user-gq3 .auto-group-4wib-nRT {
+  width: 25.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 5.5rem;
+}
+.login-phone-number-user-gq3 .auto-group-4wib-nRT .login-account-FK3 {
+  width: 14.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #607548;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-phone-number-user-gq3 .auto-group-4wib-nRT .user-sLR {
+  width: 2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-phone-number-user-gq3 .auto-group-4wib-nRT .hello-welcome-back-to-your-account--mwb {
+  width: 25.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 2.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #626262;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-phone-number-user-gq3 .auto-group-yxtr-4pD {
+  width: 31.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 61.9rem;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+}
+.login-phone-number-user-gq3 .auto-group-yxtr-4pD .vector-4-wt1 {
+  margin-bottom: 0.2rem;
+  width: 10.5rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-yxtr-4pD .or-sign-up-with-EMK {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #747070;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-yxtr-4pD .vector-3-i1b {
+  margin-bottom: 0.2rem;
+  width: 10.5rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .not-register-yet-create-account-Rwb {
+  width: 19.3rem;
+  height: 1.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 11rem;
+  top: 68rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #626262;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.login-phone-number-user-gq3 .not-register-yet-create-account-Rwb .not-register-yet-create-account-Rwb-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #626262;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.login-phone-number-user-gq3 .not-register-yet-create-account-Rwb .not-register-yet-create-account-Rwb-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.login-phone-number-user-gq3 .auto-group-tt6b-jmF {
+  width: 8rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 64.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-phone-number-user-gq3 .auto-group-tt6b-jmF .google-logo-ECD {
+  margin: 0rem 0.751rem 0.107rem 0rem;
+  width: 2.1485rem;
+  height: 2.193rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .auto-group-tt6b-jmF .google-Jhs {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-phone-number-user-gq3 .whatsapp-image-2023-05-13-at-2111-2-Z81 {
+  width: 30.4rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}

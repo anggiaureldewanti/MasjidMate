@@ -1,0 +1,189 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.setting-logout-user-BmP {
+  box-sizing: border-box;
+  padding: 0.5rem 1.9rem 11.5rem 1.4rem;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  background-color: #fffbfb;
+
+  .status-bar-cbo {
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 1.9rem;
+    width: 38.1rem;
+    height: 3.3rem;
+  }
+  .auto-group-saxs-7oT {
+    width: calc(100% - 19.8rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 18.5rem 6.2rem 1.3rem;
+
+    .vector-ZfT {
+      flex-shrink: 0;
+      margin: 0.163rem 1.091rem 0rem 0rem;
+      width: 1.0092rem;
+      height: 1.5633rem;
+      cursor: pointer;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .setting-logout-ewo {
+      flex-shrink: 0;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.175;
+      color: #2b461f;
+      font-family: Raleway, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .auto-group-86rx-veR {
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 0rem 3.2rem 0.4rem;
+    width: 12.1rem;
+    height: 11.7rem;
+    position: relative;
+    object-fit: contain;
+  }
+  .enter-your-details-muw {
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: #2b461f;
+    white-space: nowrap;
+    margin: 0rem 0rem 3.5rem 0.5rem;
+    display: flex;
+    font-family: Poppins, 'Source Sans Pro';
+    flex-shrink: 0;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+  .auto-group-vec3-EHj {
+    margin: 0rem 2.8rem 1rem 2.15rem;
+    width: calc(100% - 4.95rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .name-gQd {
+      justify-content: center;
+      line-height: 1.1725;
+      font-family: Roboto, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0rem 4.15rem 0.1rem 0rem;
+      display: flex;
+      align-items: center;
+      font-size: 1.4rem;
+      font-weight: 500;
+      color: #2b461f;
+      flex-shrink: 0;
+    }
+    .rectangle-1103-9Z7 {
+      height: 3.3rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 2.5rem;
+      flex-shrink: 0;
+      width: 24.9rem;
+    }
+  }
+  .auto-group-jzek-CGV {
+    margin: 0rem 2.8rem 1rem 2.3rem;
+    width: calc(100% - 5.1rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .contact-TiD {
+      font-size: 1.4rem;
+      font-weight: 500;
+      flex-shrink: 0;
+      justify-content: center;
+      line-height: 1.1725;
+      color: #2b461f;
+      font-family: Roboto, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0rem 3.1rem 0.1rem 0rem;
+      display: flex;
+      align-items: center;
+    }
+    .rectangle-1104-4T7 {
+      flex-shrink: 0;
+      width: 24.9rem;
+      height: 3.3rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 2.5rem;
+    }
+  }
+  .auto-group-tgjw-JsF {
+    width: calc(100% - 5.1rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 2.8rem 9.1rem 2.3rem;
+
+    .address-DDX {
+      font-size: 1.4rem;
+      font-weight: 500;
+      color: #2b461f;
+      flex-shrink: 0;
+      margin: 0rem 2.9rem 0.1rem 0rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1.1725;
+      font-family: Roboto, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .rectangle-1105-meM {
+      vertical-align: top;
+      border-radius: 2.5rem;
+      flex-shrink: 0;
+      width: 24.9rem;
+      height: 3.3rem;
+      object-fit: contain;
+    }
+  }
+  .auto-group-sdzm-gWR {
+    font-size: 1.5rem;
+    justify-content: center;
+    flex-shrink: 0;
+    margin: 0rem 2.6rem 0rem 3.9rem;
+    height: 6rem;
+    color: #ffffff;
+    border-radius: 10rem;
+    font-weight: 500;
+    line-height: 1.5;
+    width: calc(100% - 6.5rem);
+    align-items: center;
+    display: flex;
+    background-color: #2b461f;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+}

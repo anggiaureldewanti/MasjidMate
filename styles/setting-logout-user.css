@@ -1,0 +1,184 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.setting-logout-user-BmP {
+  box-sizing: border-box;
+  padding: 0.5rem 1.9rem 11.5rem 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffbfb;
+}
+.setting-logout-user-BmP .status-bar-cbo {
+  margin-bottom: 1.9rem;
+  width: 38.1rem;
+  height: 3.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-saxs-7oT {
+  margin: 0rem 18.5rem 6.2rem 1.3rem;
+  width: calc(100% - 19.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-saxs-7oT .vector-ZfT {
+  margin: 0.163rem 1.091rem 0rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-saxs-7oT .setting-logout-ewo {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-86rx-veR {
+  margin: 0rem 0rem 3.2rem 0.4rem;
+  width: 12.1rem;
+  height: 11.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .enter-your-details-muw {
+  margin: 0rem 0rem 3.5rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2b461f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-vec3-EHj {
+  margin: 0rem 2.8rem 1rem 2.15rem;
+  width: calc(100% - 4.95rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-vec3-EHj .name-gQd {
+  margin: 0rem 4.15rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #2b461f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-vec3-EHj .rectangle-1103-9Z7 {
+  width: 24.9rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-jzek-CGV {
+  margin: 0rem 2.8rem 1rem 2.3rem;
+  width: calc(100% - 5.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-jzek-CGV .contact-TiD {
+  margin: 0rem 3.1rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #2b461f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-jzek-CGV .rectangle-1104-4T7 {
+  width: 24.9rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-tgjw-JsF {
+  margin: 0rem 2.8rem 9.1rem 2.3rem;
+  width: calc(100% - 5.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-tgjw-JsF .address-DDX {
+  margin: 0rem 2.9rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #2b461f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-tgjw-JsF .rectangle-1105-meM {
+  width: 24.9rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.setting-logout-user-BmP .auto-group-sdzm-gWR {
+  margin: 0rem 2.6rem 0rem 3.9rem;
+  width: calc(100% - 6.5rem);
+  height: 6rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}

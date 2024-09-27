@@ -1,0 +1,459 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.edit-imam-muadzin-jsK {
+  width: 100%;
+  height: 73.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #87957a;
+}
+.edit-imam-muadzin-jsK .status-bar-QyT {
+  width: 38.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edit-imam-muadzin-jsK .auto-group-rusm-1TT {
+  width: 25.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 6.3rem;
+  display: flex;
+  align-items: center;
+}
+.edit-imam-muadzin-jsK .auto-group-rusm-1TT .vector-hr5 {
+  margin: 0.163rem 1.091rem 0rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .auto-group-rusm-1TT .jadwal-imam-muadzin-zKP {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .component-17-EjX {
+  width: 18rem;
+  height: 13.3148rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 14rem;
+}
+.edit-imam-muadzin-jsK .component-17-EjX .rectangle-1106-wGZ {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-EjX .group-8-Qvq {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-EjX .group-8-Qvq .rectangle-1107-tb7 {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-EjX .group-8-Qvq .edit-ZhF {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .component-17-EjX .item-0349-Md7 {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .component-17-BMF {
+  width: 18rem;
+  height: 13.3148rem;
+  position: absolute;
+  left: 21.7rem;
+  top: 14rem;
+}
+.edit-imam-muadzin-jsK .component-17-BMF .rectangle-1106-4R3 {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-BMF .group-8-8A1 {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-BMF .group-8-8A1 .rectangle-1107-qaD {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .component-17-BMF .group-8-8A1 .edit-WAZ {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .component-17-BMF .item-0349-k4u {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF {
+  width: 37.6rem;
+  height: 13.3148rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 30.6rem;
+  display: flex;
+  align-items: center;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw {
+  margin-right: 1.6rem;
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw .rectangle-1106-jqw {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw .group-8-rQm {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw .group-8-rQm .rectangle-1107-jzM {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw .group-8-rQm .edit-zfP {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-Sbw .item-0349-sUH {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T .rectangle-1106-dLy {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T .group-8-ga9 {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T .group-8-ga9 .rectangle-1107-x1s {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T .group-8-ga9 .edit-cs7 {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-ccif-yyF .component-17-W1T .item-0349-RJm {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP {
+  width: 37.6rem;
+  height: 13.3148rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 47.2rem;
+  display: flex;
+  align-items: center;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF {
+  margin-right: 1.6rem;
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF .rectangle-1106-QK7 {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF .group-8-7jK {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF .group-8-7jK .rectangle-1107-CEy {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF .group-8-7jK .edit-773 {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-udF .item-0349-j8R {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 .rectangle-1106-gSy {
+  width: 18rem;
+  height: 12.2016rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d1decd;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 .group-8-A7F {
+  width: 9.9529rem;
+  height: 4.5148rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.8rem;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 .group-8-A7F .rectangle-1107-eHK {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  background-color: #607548;
+  border-radius: 3.5rem;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 .group-8-A7F .edit-MSd {
+  width: 3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4765rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .auto-group-c4qz-QwP .component-17-xG5 .item-0349-oJd {
+  width: 6.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.5617rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-imam-muadzin-jsK .component-16-uY1 {
+  width: 9.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 63.8rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #607548;
+  border-radius: 10rem;
+}

@@ -1,0 +1,141 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.input-imam-dan-muadzin-z4M {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #87957a;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ {
+  box-sizing: border-box;
+  padding: 0.5rem 1.9rem 5.9rem 1.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ .status-bar-UNq {
+  margin-bottom: 2.7rem;
+  width: 38.1rem;
+  height: 3.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ .component-11-k5T {
+  margin: 0rem 8.9rem 10.9rem 1.7rem;
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: calc(100% - 10.6rem);
+  height: 2.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ .component-11-k5T .vector-YGD {
+  margin: 0.063rem 0.991rem 0rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ .component-11-k5T .jadwal-imam-muadzin-E93 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-dsuk-ziZ .auto-group-1zck-Vam {
+  margin: 0rem 1.9rem 0rem 2.4rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.1rem;
+  width: calc(100% - 4.3rem);
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-ejpo-hKT {
+  width: 100%;
+  height: 54.0492rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.input-imam-dan-muadzin-z4M .auto-group-ejpo-hKT .ellipse-6-D2u {
+  width: 63.074rem;
+  height: 51.0492rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.input-imam-dan-muadzin-z4M .auto-group-ejpo-hKT .rectangle-45-e8D {
+  width: 33.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+}
+.input-imam-dan-muadzin-z4M .auto-group-ejpo-hKT .muadzin-7Gh {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 2.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.input-imam-dan-muadzin-z4M .auto-group-ejpo-hKT .component-16-uyF {
+  width: 9.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 13.4rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #607548;
+  border-radius: 10rem;
+}

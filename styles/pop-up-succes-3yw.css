@@ -1,0 +1,77 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.pop-up-succes-NwF {
+  width: 100%;
+  height: 73.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #9eab6b;
+}
+.pop-up-succes-NwF .status-bar-31o {
+  width: 38.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pop-up-succes-NwF .rectangle-48-vrH {
+  width: 33rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 4rem;
+  top: 25.2rem;
+}
+.pop-up-succes-NwF .rectangle-48-vrH .rectangle-48-Ysf {
+  width: 100%;
+  height: 23.1rem;
+  background-color: #c9d3bf;
+  border-radius: 2.5rem;
+}
+.pop-up-succes-NwF .vector-GHs {
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.1rem;
+  top: 6.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pop-up-succes-NwF .check-Znm {
+  width: 6.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 30rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pop-up-succes-NwF .successed-S5s {
+  width: 10.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 39.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #607548;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}

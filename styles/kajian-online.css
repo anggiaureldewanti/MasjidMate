@@ -1,0 +1,236 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.kajian-online-DC9 {
+  width: 100%;
+  height: 73.6rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-8-bg-CVj.png');
+  background-color: #fffbfb;
+}
+.kajian-online-DC9 .status-bar-yad {
+  width: 39.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.kajian-online-DC9 .auto-group-6vrx-fyF {
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: 33.2rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 33.4rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-6vrx-fyF .image-8-LJh {
+  margin-right: 5.1rem;
+  width: 14.2rem;
+  height: 15.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-6vrx-fyF .image-13-oTB {
+  width: 13.6rem;
+  height: 15.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-tt3q-GLm {
+  width: 18.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 5.7rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-tt3q-GLm .vector-Zqf {
+  margin: 0.163rem 1.091rem 0rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-tt3q-GLm .kajian-online-1hf {
+  margin-right: 0.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-tt3q-GLm .oip-3-2-5Bj {
+  margin-bottom: 0.1rem;
+  width: 2.5rem;
+  height: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-zwzb-mqF {
+  width: 32.9rem;
+  height: 14.2rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 12.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.kajian-online-DC9 .auto-group-zwzb-mqF .image-11-DBT {
+  margin-right: 5.4rem;
+  width: 13.9rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-zwzb-mqF .image-12-Vem {
+  width: 13.6rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-hujd-pS9 {
+  width: 30.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5rem;
+  top: 28.3rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-hujd-pS9 .hikmah-dibalik-musibah-Gow {
+  margin-right: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-hujd-pS9 .ilmu-sharaf-nahwu-taR {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-arvh-xaH {
+  width: 31.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 49.8rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-arvh-xaH .teladan-rasulullah-di-tengah-pandemi-EXo {
+  margin-right: 6.1rem;
+  max-width: 13.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-arvh-xaH .kajian-minggu-ke-2-tema-fikih-sholat-S85 {
+  max-width: 11.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-6cqj-5wj {
+  width: 35.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 5rem;
+  top: 30.1rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-6cqj-5wj .link-bitly-kajianliveforkomnl-Z6D {
+  margin-right: 2.8rem;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #4285f4;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-6cqj-5wj .link-bitly-kajianliveforkomnl-rLD {
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #4285f4;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-baw5-WQm {
+  width: 35.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 53.8rem;
+  display: flex;
+  align-items: center;
+}
+.kajian-online-DC9 .auto-group-baw5-WQm .link-bitly-kajianliveforkomnl-PDf {
+  margin-right: 3rem;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #4285f4;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kajian-online-DC9 .auto-group-baw5-WQm .link-bitly-kajianliveforkomnl-fS5 {
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.26;
+  color: #4285f4;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

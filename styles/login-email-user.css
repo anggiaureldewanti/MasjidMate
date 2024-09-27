@@ -1,0 +1,279 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.login-email-user-rkV {
+  width: 100%;
+  height: 73.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fffbfb;
+}
+.login-email-user-rkV .status-bar-LQm {
+  width: 38.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-email-user-rkV .auto-group-6go5-vtm {
+  width: 24.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 29.6rem;
+  display: flex;
+  align-items: center;
+}
+.login-email-user-rkV .auto-group-6go5-vtm .auto-group-ymzj-pUM {
+  width: 12.2rem;
+  height: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-6go5-vtm .auto-group-g8qh-CUu {
+  width: 12.2rem;
+  height: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #607548;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c9d3bf;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-tggb-Duo {
+  box-sizing: border-box;
+  padding: 2.3rem 1.9rem;
+  width: 33.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 35.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c8d3be;
+}
+.login-email-user-rkV .auto-group-zowr-M8q {
+  box-sizing: border-box;
+  padding: 2rem 1.7rem 2rem 2rem;
+  width: 33.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 43.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+}
+.login-email-user-rkV .auto-group-zowr-M8q .password-Qcu {
+  margin-right: 21.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-zowr-M8q .icvisibility48px-e1T {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .component-6-9U1 {
+  width: 31.6rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 4.9rem;
+  top: 52.9rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 10rem;
+}
+.login-email-user-rkV .whatsapp-image-2023-05-13-at-2111-2-SbX {
+  width: 30.4rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-email-user-rkV .auto-group-yazw-Uo7 {
+  width: 25.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 5.5rem;
+}
+.login-email-user-rkV .auto-group-yazw-Uo7 .login-account-98Z {
+  width: 14.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #607548;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-email-user-rkV .auto-group-yazw-Uo7 .user-cH3 {
+  width: 2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-email-user-rkV .auto-group-yazw-Uo7 .hello-welcome-back-to-your-account--5wK {
+  width: 25.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 2.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #626262;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-email-user-rkV .auto-group-ujab-rqb {
+  width: 31.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 61.9rem;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+}
+.login-email-user-rkV .auto-group-ujab-rqb .vector-4-JSh {
+  margin-bottom: 0.2rem;
+  width: 10.5rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-ujab-rqb .or-sign-up-with-cyB {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #747070;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-ujab-rqb .vector-3-sPK {
+  margin-bottom: 0.2rem;
+  width: 10.5rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .not-register-yet-create-account-M3b {
+  width: 19.3rem;
+  height: 1.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 11rem;
+  top: 68rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #626262;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.login-email-user-rkV .not-register-yet-create-account-M3b .not-register-yet-create-account-M3b-sub-0 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #626262;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.login-email-user-rkV .not-register-yet-create-account-M3b .not-register-yet-create-account-M3b-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+}
+.login-email-user-rkV .auto-group-tsjv-7F3 {
+  width: 8rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 64.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-email-user-rkV .auto-group-tsjv-7F3 .google-logo-BEu {
+  margin: 0rem 0.751rem 0.107rem 0rem;
+  width: 2.1485rem;
+  height: 2.193rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-email-user-rkV .auto-group-tsjv-7F3 .google-TiD {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

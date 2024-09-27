@@ -1,0 +1,136 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.kolom-pengaduan-kbo {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffbfb;
+  box-sizing: border-box;
+  padding: 0rem 0.1rem 15.3rem 0.1rem;
+  position: relative;
+  align-items: center;
+
+  .status-bar-iww {
+    height: 3.3rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 1.3rem 2.4rem 0rem;
+    width: 39.9rem;
+  }
+  .auto-group-odns-x5b {
+    width: calc(100% - 22.9rem);
+    height: 2.6rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 20.3rem 1.8rem 2.6rem;
+
+    .auto-group-am8p-DXK {
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding-right: 0.7rem;
+      height: 100%;
+
+      .vector-CnZ {
+        flex-shrink: 0;
+        margin: 0rem 1.091rem 0.037rem 0rem;
+        width: 1.0092rem;
+        height: 1.5633rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .kritik-saran-XTT {
+        font-size: 2rem;
+        font-weight: 700;
+        line-height: 1.175;
+        color: #2b461f;
+        font-family: Raleway, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.2rem;
+      }
+    }
+    .b2ap3largepengaduan-1-kr1 {
+      height: 2.6rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      width: 2.6rem;
+    }
+  }
+  .whatsapp-image-2023-05-13-at-2111-1-EFP {
+    margin-bottom: 2.3rem;
+    width: 30.4rem;
+    height: 14.9rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .auto-group-bvab-dHX {
+    height: 19.8rem;
+    position: relative;
+    flex-shrink: 0;
+    margin: 0rem 3.3rem 8rem 4.8rem;
+    width: calc(100% - 8.1rem);
+
+    .rectangle-36-59X {
+      width: 29.8rem;
+      height: 19.8rem;
+      position: absolute;
+      left: 0.9rem;
+      top: 0;
+      background-color: #d9d9d9;
+      border-radius: 3rem;
+    }
+    .kritik-dan-saran-jjs {
+      top: 9rem;
+      color: #6e6e6e;
+      font-family: Outfit, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 10.1rem;
+      height: 1.8rem;
+      position: absolute;
+      left: 10.4rem;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 1.26;
+    }
+  }
+  .auto-group-adgp-YSR {
+    font-family: Outfit, 'Source Sans Pro';
+    background-color: #607548;
+    border-radius: 10rem;
+    margin: 0rem 15.9rem 0rem 15.6rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1.26;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: calc(100% - 31.5rem);
+    height: 3.2rem;
+    white-space: nowrap;
+    display: flex;
+  }
+}

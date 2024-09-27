@@ -1,0 +1,229 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.input-jadwal-sholat-49s {
+  box-sizing: border-box;
+  padding: 0rem 0.1rem 4.5rem 0.1rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #87957a;
+}
+.input-jadwal-sholat-49s .status-bar-st1 {
+  margin: 0rem 1.3rem 3.2rem 0rem;
+  width: 39.9rem;
+  height: 3.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-rmjh-6Vs {
+  margin: 0rem 22.7rem 7.2rem 3rem;
+  width: calc(100% - 25.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-rmjh-6Vs .vector-bSd {
+  margin: 0rem 0.991rem 0.237rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-rmjh-6Vs .jadwal-sholat-45K {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-Uuj {
+  margin: 0rem 3.7rem 3.4rem 3.7rem;
+  width: calc(100% - 7.4rem);
+  height: 6.4rem;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-Uuj .component-7-aSy {
+  box-sizing: border-box;
+  padding: 1.625rem 2.45rem 1.525rem 2.4rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+}
+.input-jadwal-sholat-49s .component-7-Uuj .component-7-aSy .isya-Gqb {
+  margin: 0rem 21.55rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-Uuj .component-7-aSy .iconly-bold-edit-square-er9 {
+  width: 3.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-REd {
+  margin: 0rem 3.7rem 3.4rem 3.7rem;
+  box-sizing: border-box;
+  padding: 1.625rem 2.45rem 1.525rem 2.4rem;
+  width: calc(100% - 7.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-REd .isya-Uih {
+  margin: 0rem 20.95rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-REd .iconly-bold-edit-square-WfP {
+  width: 3.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-dvb1-PUH {
+  margin: 0rem 3.3rem 3.4rem 3.8rem;
+  width: calc(100% - 7.1rem);
+  height: 6.4rem;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-dvb1-PUH .component-7-Ejo {
+  box-sizing: border-box;
+  padding: 1.625rem 2.45rem 1.525rem 2.4rem;
+  width: 33.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+}
+.input-jadwal-sholat-49s .auto-group-dvb1-PUH .component-7-Ejo .isya-i9B {
+  margin: 0rem 22.45rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .auto-group-dvb1-PUH .component-7-Ejo .iconly-bold-edit-square-Mhw {
+  width: 3.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-p5j {
+  margin: 0rem 3.7rem 3.4rem 3.7rem;
+  box-sizing: border-box;
+  padding: 1.625rem 2.45rem 1.525rem 2.4rem;
+  width: calc(100% - 7.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-p5j .isya-GyK {
+  margin: 0rem 20.15rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-p5j .iconly-bold-edit-square-mfB {
+  width: 3.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-AxD {
+  margin: 0rem 3.6rem 3.4rem 3.8rem;
+  box-sizing: border-box;
+  padding: 1.625rem 2.45rem 1.525rem 2.4rem;
+  width: calc(100% - 7.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #c9d3bf;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-AxD .isya-bnd {
+  margin: 0rem 22.55rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #6e6e6e;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-7-AxD .iconly-bold-edit-square-gp5 {
+  width: 3.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.input-jadwal-sholat-49s .component-16-uB3 {
+  margin: 0rem 15.7rem 0rem 15.6rem;
+  width: calc(100% - 31.3rem);
+  height: 4rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #607548;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}

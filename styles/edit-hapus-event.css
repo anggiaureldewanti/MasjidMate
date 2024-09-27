@@ -1,0 +1,369 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.edit-hapus-event-xWq {
+  box-sizing: border-box;
+  padding: 0.5rem 1.9rem 0rem 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #87957a;
+}
+.edit-hapus-event-xWq .status-bar-5zm {
+  margin-bottom: 2.5rem;
+  width: 38.1rem;
+  height: 3.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .auto-group-1ps9-xYm {
+  margin: 0rem 10.1rem 3.8rem 1.7rem;
+  width: calc(100% - 11.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .auto-group-1ps9-xYm .vector-TEd {
+  margin: 0.163rem 1.091rem 0rem 0rem;
+  width: 1.0092rem;
+  height: 1.5633rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .auto-group-1ps9-xYm .jadwal-event-mendatang-u6d {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2b461f;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy {
+  margin: 0rem 0.4rem 0rem 0.8rem;
+  width: calc(100% - 1.2rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH {
+  width: 100%;
+  height: 68.6rem;
+  overflow: hidden;
+  position: relative;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ {
+  width: 38.2rem;
+  height: 65.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 .auto-group-dnkk-Q5K {
+  margin: 0rem 1.5rem 0.8rem 0rem;
+  width: 36.7rem;
+  background-color: #c9d3bf;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 .auto-group-dnkk-Q5K .image-9-mCh {
+  width: 36.7rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 .auto-group-mkvt-D4h {
+  margin: 0rem 1.4rem 0rem 22.5rem;
+  width: calc(100% - 23.9rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 .auto-group-mkvt-D4h .auto-group-a4d9-3Jd {
+  margin-right: 1.1rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #2b412f;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .component-9-gf7 .auto-group-mkvt-D4h .auto-group-2psd-BJM {
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #c9d3bf;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so {
+  width: 100%;
+  height: 51.9rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD {
+  margin: 0rem 1.4rem 3.4rem 0rem;
+  width: 36.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD .auto-group-cz3d-aNR {
+  margin: 0rem 0.1rem 0.8rem 0rem;
+  width: 36.7rem;
+  background-color: #c9d3bf;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD .auto-group-cz3d-aNR .image-9-5a5 {
+  width: 36.7rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD .auto-group-p8qj-ZVF {
+  margin-left: 22.5rem;
+  width: calc(100% - 22.5rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD .auto-group-p8qj-ZVF .auto-group-wf9m-4gu {
+  margin-right: 1.1rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #2b412f;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .component-10-iLD .auto-group-p8qj-ZVF .auto-group-yp2f-Z1P {
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #c9d3bf;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-d9e3-vm3 {
+  margin: 0rem 1.3rem 0.8rem 0rem;
+  width: 36.7rem;
+  background-color: #c9d3bf;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-d9e3-vm3 .image-10-qd7 {
+  width: 36.7rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-yfh5-HED {
+  margin: 0rem 1.4rem 3.4rem 22.5rem;
+  width: calc(100% - 23.9rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-yfh5-HED .auto-group-8yd5-ZxR {
+  margin-right: 1.1rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #2b412f;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-yfh5-HED .auto-group-gvu1-MtH {
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #c9d3bf;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-yrgs-JS9 {
+  margin: 0rem 1.1rem 0.8rem 0.4rem;
+  width: calc(100% - 1.5rem);
+  background-color: #c9d3bf;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-yrgs-JS9 .image-11-kJ9 {
+  width: 36.7rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-7ysh-Q7o {
+  margin: 0rem 1.4rem 3.4rem 22.5rem;
+  width: calc(100% - 23.9rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-7ysh-Q7o .auto-group-kj8s-h6u {
+  margin-right: 1.1rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #2b412f;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-7ysh-Q7o .auto-group-d4nw-SCu {
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #c9d3bf;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .image-3-FRF {
+  margin: 0rem 1.4rem 0.8rem 0rem;
+  width: 36.4rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-1nzq-MDP {
+  margin: 0rem 1.4rem 0rem 22.5rem;
+  width: calc(100% - 23.9rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-1nzq-MDP .auto-group-u7s1-cf7 {
+  margin-right: 1.1rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #2b412f;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9eab6b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-hapus-event-xWq .frame-32-zNy .frame-31-hYH .group-16-btZ .auto-group-dypr-8so .auto-group-1nzq-MDP .auto-group-fgfd-bG9 {
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #c9d3bf;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b461f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
